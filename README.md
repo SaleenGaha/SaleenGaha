@@ -8,9 +8,9 @@ Welcome to my GitHub! I'm a Computer Science student and aspiring Quality Assura
 
 🧪 Focused on Software Quality Assurance and Testing
 
-🌱 Currently learning Selenium Automation with Python and PostgreSQL
+🌱 Currently learning Playwright Automation with Python and PostgreSQL
 
-📝 Experienced in writing User Stories, Acceptance Criteria, Test Cases, and Bug Reports
+📝 Confidence in writing User Stories, Acceptance Criteria, Test Cases, and Bug Reports
 
 🔍 Interested in Manual Testing, Database Testing, and Test Automation
 
@@ -28,7 +28,7 @@ Test Case Design
 Bug Reporting
 Gherkin (BDD)
 Automation
-Selenium WebDriver
+Playwright
 Python
 Database
 SQL
